@@ -1,5 +1,10 @@
-p { color: red; }
+p { color: #555; }
 h1 {color: blue }
-h2 {color: red}
-ol {color: hotpink}
+h2 {color: #333}
+body {
+color: #555;
+line-height: 1.5;
+padding: 4em 1 em;
+}
+ol {color: #555}
 
