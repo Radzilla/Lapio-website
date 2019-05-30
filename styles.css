@@ -2,10 +2,17 @@
 width: 200px;
 height: 100px;
 background-color: red;
+left: 5px;
+top: 5px;
+position: absolute;
+}
+.ekat {
+width: 210px;
+height: 110px;
+background-color: green;
 left: 0px;
 top: 0px;
-position: relative;
-
+position: absolute;
 }
 
 .toka {
@@ -13,9 +20,16 @@ width: 200px;
 height: 100px;
 background-color: yellow;
 left: 220px;
-top: -115px;
-position: relative;
-
+top: 5px;
+position: absolute;
+}
+.tokat {
+width: 210px;
+height: 110px;
+background-color: red;
+left: 215px;
+top: 0px;
+position: absolute;
 }
 
 .kolmas {
@@ -23,6 +37,17 @@ width: 200px;
 height: 100px;
 background-color: green;
 left: 440px;
-top: -230px;
-position: relative;
+top: 5px;
+position: absolute;
 }
+
+.kolmast {
+width: 210px;
+height: 110px;
+background-color: yellow;
+left: 435px;
+top: 0px;
+position: absolute;
+}
+
+
